@@ -1,0 +1,19 @@
+.Logo {
+  width: 150px;
+  height: auto;
+}
+
+.side-btns {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-left: 16rem;
+}
+.ml-auto {
+  margin-left: 7rem;
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+}
